@@ -1,0 +1,115 @@
+.bg-emphasis {
+    background-color: #1c1f3c;
+}
+.iki li :hover{
+    background-color: #108d72;
+}
+.masthead-avatar {
+    max-width: 200px;
+    height: auto;
+}
+
+#mainNav .navbar-nav .nav-link {
+    color: #ffffff;
+}
+
+#mainNav .navbar-brand {
+    color: #ffffff;
+}
+
+header {
+    margin-top: 20px;
+}
+
+.masthead {
+    padding-top: 50px;
+}
+header.masthead {
+    background-color: #108d72 !important;
+}
+
+.masthead-avatar {
+    margin-top: 20px;
+}
+
+.masthead-subheading {
+    padding-top: 30px;
+
+}
+
+.page-section-heading {
+    margin-top: 20px;
+}
+
+img.a {
+    width: 210px;
+}
+
+.portfolio {
+    padding: 80px 0;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.portfolio {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #f8f9fa;
+}
+
+.portfolio img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.row {
+    padding-top: 50px;
+}
+
+#about {
+    background-color: #108d72 !important;
+}
+
+footer {
+    background-color: #122250;
+    color: #f8f9fa;
+
+}
+
+.footer-icons {
+    margin-top: 20px;
+}
+
+.btn-outline-light {
+    color: white !important;
+}
+
+.btn-outline-light:hover {
+    color: white !important;
+}
+
+.btnfree {
+    background-color: transparent;
+    width: 15%;
+    height: 50px;
+    margin-left: 45%;
+    margin-bottom: 20px;
+    border-radius:7px;
+    color: #f8f9fa;
+    border: 1px solid #ffffff;
+}
+.mb-3 input{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+}
+
+#salam{
+    background-color: #108d72;
+}
+
+
+
+
